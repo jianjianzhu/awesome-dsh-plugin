@@ -1,7 +1,7 @@
 url: https://github.com/jianjianzhu/dsh-model-switcher
 name: jianjianzhu/dsh-model-switcher
 category: model
-tarball: https://github.com/jianjianzhu/dsh-model-switcher/releases/download/v0.3.0/dsh-model-switcher-0.3.0.tgz
+tarball: https://github.com/jianjianzhu/dsh-model-switcher/releases/download/v0.4.0/dsh-model-switcher-0.4.0.tgz
 description:
-  en: "Visual provider and model configuration for DeepSeek Harness Web: presets for common OpenAI-compatible and Anthropic endpoints, model discovery with metadata, default switching, compatibility controls, credential-safe headers, and key-free template import/export."
-  zh: "DeepSeek Harness Web 的可视化 Provider 与模型配置插件：提供常见 OpenAI 兼容及 Anthropic 端点预设、带元数据的模型发现、默认模型切换、协议兼容控制、安全请求头，以及不含密钥的模板导入导出。"
+  en: "Step-by-step provider and model setup for DeepSeek Harness Web: choose a common OpenAI-compatible or Anthropic service, store its key safely, discover and select models, and set the default without editing YAML; advanced compatibility controls and key-free template import/export remain available when needed."
+  zh: "面向普通用户的 DeepSeek Harness Web 服务商与模型配置向导：选择常见 OpenAI 兼容或 Anthropic 服务、安全保存密钥、发现并勾选模型、设置默认模型，全程无需编辑 YAML；需要时仍可使用高级兼容控制及不含密钥的模板导入导出。"
